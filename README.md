@@ -1,6 +1,6 @@
 # NeetCode Solutions — @hri-hub
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `NeetCode150`
 
 ---
 
